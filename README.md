@@ -48,8 +48,6 @@ Python
 
 Pandas
 
-NumPy
-
 Scikit-learn
 
 Matplotlib / Seaborn
